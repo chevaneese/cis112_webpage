@@ -1,0 +1,149 @@
+﻿/*body {
+	background-color:	#0080FF;
+	font-family: 		Verdana, Geneva, Arial, sans-serif;
+	font-size:		small;
+	margin:   		0px;
+	padding:            	40px;
+}
+#header{
+	background-color:	#A9A9A9;
+	color:		  	#efe5d0;
+	border: 		2px solid #ffffff;
+	display:		block;
+	margin: 		10px;
+	max-width: 		1080px
+	min-height: 		230px;
+	padding:  		15px;
+	text-decoration: 	none;
+	width:    		100px;
+
+}
+div#tableContainer {
+	display: 		table;
+	border-spacing: 	10px;
+}
+#tableRow{
+	display:		table-row;
+}
+table{
+	margin-right: 		5px;
+	margin-left:  		5px;
+	border: 	  	thin solid black;
+	caption-side: 		bottom;
+	border-collapse: 	collapse;
+}	
+
+@media screen and (min-device-width: 481px){
+	#guarantee {
+		margin-right:  250px;
+}
+
+@media screen and (max-device-width: 480px){
+	#guarantee {
+		margin-right: 30px;
+}
+
+#sideline{			
+	display:		table-cell;
+	background-color:	#00f6ff;
+	border-style: 		#00f6ff solid;
+	border-width:		23%;
+	/*border:		#FFFFFF;
+	font-size:		small;
+	width: 		23%;
+	height:			20px;
+	padding:		5px;
+	vertical-align:  	top;
+}
+#main{
+	display:		table-cell;
+	background-color:	#00f6ff;
+	border: 		#FFFFFF;
+	font-size:  		small;
+	width:			52%;
+	height:			20px;
+	padding:		5px;
+	vertical-align: 	top;
+}
+#testimonial{
+	display:		table-cell;
+	background-color: 	#00f6ff;
+	border: 		#FFFFFF;
+	font-size: 		small;
+	width:			23%;
+	height:			20px;
+	padding:		15px;
+	vertical-align:		top;
+
+}
+
+p#home{
+	background-color:	none;
+}
+nav{
+	background-color:	#808080;
+	color:    		#FF0000; 
+	padding:	 	5px;
+	margin:			10px
+	clear: 			both;
+	margin: 		0;
+	max-width: 		1080px;
+	min-height: 	45px;
+	position: 		relative;
+} 
+
+ ul nav{
+	margin: 		0;
+	width:			60px;
+	padding: 		0;
+}
+nav li{
+	display:		inline-block;
+	position:		relative;
+}
+nav li a{
+	color: 			#FF0000;
+	display: 		block;
+	font-size:  	15px;
+	line-height: 	15px 20px;
+	text-decoration: 	none;
+}
+nav li: hover > a,
+nav li a:hover,
+nav li a:focus{
+	background-color:	#ebff00;
+	color: 			#ffffff;
+}
+a{
+	display:		block;
+	padding:		8px;
+	background-color: #ff7f00;
+}
+
+a:link{
+	color: red;
+}
+a:visited{
+	color: #80ff00;
+}
+a:hover{
+	color: 			#ea9629;
+	outline:		0;
+}
+a:hover{
+	color: #ff0080;
+	text-decoration: none;
+}
+a:active{
+	background-color: yellow;
+	color:            #FFFFFF;
+
+}
+#footer {
+	background-color:	#808080;
+	color:		  	#efe5d3;
+	text-align: 	 	center;
+	padding:	 	15px;
+	margin:		  	10px
+	font-size: 	  	small;
+}*/

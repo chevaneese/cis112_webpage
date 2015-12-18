@@ -1,0 +1,190 @@
+body {
+	background-color:	#0000ff;
+	color:				#c0c0c0;
+	font-family: 		Verdana, Geneva, Arial, sans-serif;
+	font-size:			small;
+	margin:   			0px;
+	padding:       	   	40px;
+
+}
+h1{
+	 color: rgb(0,0,255);
+}
+
+#header{
+	background-color:	black;
+	color:		  	#c0c0c0;
+	border: 		2px solid #ffffff;
+	display:		block;
+	margin: 		10px; 
+	max-width: 		1080px;
+	min-height: 		230px;
+	padding:  			5px;
+	text-decoration: 	none;
+	/*width:    			100px;*/
+}
+#section{
+	width:				350px;
+	/*float:				left;*/
+	padding:			10px;
+
+}
+
+div#tableContainer {
+	display: 			table;
+	border-spacing: 	10px;
+	overflow:			hidden;
+
+}
+#tableColumn{
+	display:			table-column;
+}
+#tableRow{
+	display:			table-row;
+	
+}
+
+#table{
+	margin-right: 		5px;
+	margin-left:  		5px;
+	border: 	  		thin solid black;
+	caption-side: 		bottom;
+	border-collapse: 	collapse;
+}	
+#myDime{			
+	display:			table-cell;
+	background-color:	#c0c0c0;
+	/*border-style: 		solid;*/
+	color:				red;
+	/*border:				#FFFFFF;*/
+	font-size:			small;
+	width:				30%;
+	padding:			15px;
+	vertical-align:  	top;
+	overflow:			hidden;
+}
+#myQuarter{
+	display:			table-cell;
+	/*background-color:	#ffffff;*/
+	color:				red;
+	font-size:  		small;
+	width:				40%;
+	padding:			15px;
+	vertical-align: 	top;
+	overflow:			hidden;
+}
+#photo{
+	/*float: right;*/
+	/*padding:	1px;*/
+	margin:		0px 0px 10px 10px;
+}
+#myDollar{
+	display:			table-cell;
+	background-color:	#c0c0c0;
+	/*border-style: 		solid;*/
+	color:				red;
+	font-size: 			small;
+	margin:				0px 10px 10px 10px;
+	width:				30%;
+	padding:			15px;
+	vertical-align:		top;
+	overflow:			hidden;
+}
+nav{
+	background-color:	#534848;
+	color:    			#ffffff;
+	/*border-spacing: 	1px;*/ 
+	padding:	 		5px;
+	/*margin:			10px;*/
+	/*clear: 			both;*/
+	/*max-width: 		1080px;
+	min-height: 		45px;
+	position: 			relative;*/
+	line-height: 		30px;
+	
+	
+
+	
+
+} 
+ul nav{
+	margin: 		0;
+	width:			60px;
+	padding: 		0;
+	overflow: 		auto;
+
+}
+nav li{
+	display:		inline-block;
+	position:		relative;
+}
+nav li a{
+	color: 			red;
+	/*display: 		block;*/
+	font-size:  	15px;
+	line-height: 	15px 20px;
+	text-decoration: 	none;
+}
+nav li:hover > a,
+nav li a:hover,
+nav li a:focus{
+	background-color:	#FFFFFF;
+	color: 				#ffffff;
+}
+nav a{
+	/*display:			block;*/
+	padding:			8px;
+	background-color:   #A0A0A0;
+}
+a:link{
+	color: 				red;
+}
+a:visited{
+	color: #80ff00;
+}
+a:hover{
+	color: 				#FFFFFF;
+	outline:			0;
+	text-decoration: 	none;
+}
+a:active{
+	background-color: 	red;
+	/*color:            	#FFFFFF;*/
+}
+p#home a{
+	/*display:			block;*/
+	/*background-color: 	#0000ff;*/
+	padding:			none;
+}
+p#home a:link{
+	/*display:			block;*/
+	/*background-color: 	#ffffff;*/
+	/*padding:			none;
+}
+p#home a:visited{
+	/*display:			block;*/
+	/*background-color: 	#ffffff;
+	padding:			none;*/
+}
+/*p#home a:active{
+	/*display:			block;*/
+	/*background-color: 	#80ff00;
+	padding:			none;
+}*/
+/*a:active{
+	
+	background-color: 	#80ff00;
+	padding:			none;
+}*/	
+#footer {
+	/*background-color:	#534848;*/
+	color:		  		#ffffff;
+	text-align: 	 	center;
+	padding:		 	5px;
+	/*margin:		  	0px 10px 10px 10px
+	font-size: 	  		small;*/
+}
+.rotate90{
+	-webkit-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
